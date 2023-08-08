@@ -1,0 +1,13 @@
+.body{
+  font-family:'source sans pro',sans-serif;
+}
+
+.Maincontainer{
+  padding:4% 12%;
+  margin-top: 32px;
+  box-sizing: border-box;
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
